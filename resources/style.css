@@ -21,6 +21,7 @@ h2 {
 h3 {
     color: gray;
     font-size: 21px;
+    padding: 1rem 0;
 }
 
 footer {
@@ -29,6 +30,17 @@ footer {
 
 }
 
+h4{
+    padding: 2rem 0;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
 a {
     color: aquamarine;
+    
 }
